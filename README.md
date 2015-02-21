@@ -1,8 +1,8 @@
 # ![logo](http://i.imgur.com/3XzR93r.png)
 
-# DeathCore 3.3.5a - New Source - Scripts
+# DeathCore 3.3.5a New Races - New Source - Scripts
 
-`DeathCore_3.3.5`:[![Build Status](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5.svg?branch=master)](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5)
+`DeathCore_3.3.5 New Races`:[![Build Status](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_New_Races.svg?branch=master)](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_New_Races)
 
 ##Informações Gerais do Projeto
 
@@ -14,6 +14,10 @@ Patch 3.3.5a - NDP-DB 335.11.58
 - 99% das Magias estão trabalhadas
 - Profissionalmente Desenvolvido
 - Todas as Combinações de Classe e Raças estão Corrigidas
+- 18 Raças Avaliadas e Liberadas
+*Aliança(Human, Dwarf, Night Elf, Gnome, Draenei, Naga, Taunka, Northrend Skeleton, and Forest Troll)
+*Horda (Orc, Undead, Tauren, Troll, Blood Elf, Vrykul, Tuskarr, Pandaren, and Skeleton)
+
 
 Esta é a nova source da DeathCore que estamos atualizando devagar, adicionando novos scripts e novidades, e se você quiser nos ajudar neste projeto, ficaremos gratos! Toda a ajuda será bem vinda! Atenciosamente, Equipe Noffearr Death ProjecT™.
 
@@ -22,18 +26,20 @@ As pessoas estão vendendo essa source para ter lucros para si mesmo, eu estou d
 
 ##Arquivos Necessários
 
-[dbc](https://mega.co.nz/#!jxsXXKRD!FnPIPcIcTLVz_NaGhqCIwff84vSEE-uRglsqOLkGNHE)
+[dbc] - Em Breve(#)
 
-[maps](https://mega.co.nz/#!HktXRayL!0GAKnG4SLRWVoQ34qVZwbVz5-SVqR0L0MErKH86QQuw)
+[maps] - Em Breve(#)
 
-[mmaps](https://mega.co.nz/#!7hMXTJxL!eDSoLgRed_FDljTADNf03QWpHIhZY3MK3h_JRFdOsVE)
+[mmaps] - Em Breve(#)
 
-[vmaps](https://mega.co.nz/#!G8kEkaYC!mH3GWasxMYnqFjeeDQZmitaetrJXIX80HJ5Cqv3gkIo)
+[vmaps] - Em Breve(#)
+
+[Patch New Races] - Em Breve(#)
 
 
 ##Databases
 
-[Todas as Databases](https://mega.co.nz/#!K9tCRBCS!CRWcmEylDh0hDoxDlDSfxRXhn_HEFH8W_vhHJeesT3M)
+[Todas as Databases] - Em Breve(#)
 
 =====================
 
